@@ -1,6 +1,6 @@
 {
   "name": "appletree",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "fs helpers for building high level web frameworks",
   "main": "index.js",
   "scripts": {
