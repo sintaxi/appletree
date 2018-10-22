@@ -1,0 +1,23 @@
+{
+  "name": "appletree",
+  "version": "0.1.0",
+  "description": "fs helpers for building high level web frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sintaxi/appletree.git"
+  },
+  "author": "Brock Whitten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sintaxi/appletree/issues"
+  },
+  "homepage": "https://github.com/sintaxi/appletree#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  }
+}
